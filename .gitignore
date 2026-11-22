@@ -1,0 +1,58 @@
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# OS & Editors
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+
+# Node / Next.js / React
+node_modules/
+.pnp/
+.pnp.js
+.next/
+out/
+build/
+dist/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+.vercel
+
+# Python / FastAPI / AI & NLP
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.venv/
+venv/
+ENV/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Local AI models, caches, & sample uploads
+*.bin
+*.pt
+*.onnx
+*.pkl
+*.joblib
+# Uncomment if you store local test CVs or data dumps in the repo:
+# data/uploads/
+# tmp_cvs/
+
+# Docker local volumes / logs
+*.log
+pgdata/
