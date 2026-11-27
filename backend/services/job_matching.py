@@ -2,7 +2,7 @@
 from pathlib import Path
 
 def load_jobs(file_path="backend/data/jobs.json"):
-    return json.loads(Path(file_path).read_text(encoding="utf-8"))
+    return json.loads(Path(file_path).read_text(encoding="utf-8-sig"))
 
 def calculate_match(user_skills, job_skills):
     if not job_skills: return {"matching_score": 0.0, "matched_skills": [], "missing_skills": []}
