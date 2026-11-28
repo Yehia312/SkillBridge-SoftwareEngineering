@@ -1,1 +1,50 @@
-﻿[{"id": 1, "title": "Backend Developer Intern", "company": "SkillBridge Partner", "required_skills": ["Python", "SQL", "Docker", "REST APIs", "Git"]}, {"id": 2, "title": "Frontend Developer Intern", "company": "SkillBridge Partner", "required_skills": ["JavaScript", "React", "HTML", "CSS", "Git"]}, {"id": 3, "title": "Data Analyst Intern", "company": "SkillBridge Partner", "required_skills": ["Python", "SQL", "Machine Learning", "Git"]}]
+﻿[
+{
+"id": 1,
+"title": "Backend Developer Intern",
+"company": "SkillBridge Partner",
+"required_skills": ["Python", "SQL", "Docker", "REST APIs", "Git"]
+},
+{
+"id": 2,
+"title": "Frontend Developer Intern",
+"company": "SkillBridge Partner",
+"required_skills": ["JavaScript", "React", "HTML", "CSS", "Git"]
+},
+{
+"id": 3,
+"title": "Data Analyst Intern",
+"company": "SkillBridge Partner",
+"required_skills": ["Python", "SQL", "Machine Learning", "Git"]
+},
+{
+"id": 4,
+"title": "Full Stack Developer Intern",
+"company": "SkillBridge Partner",
+"required_skills": ["Python", "FastAPI", "React", "SQL", "Git"]
+},
+{
+"id": 5,
+"title": "AI & NLP Intern",
+"company": "SkillBridge Partner",
+"required_skills": ["Python", "Machine Learning", "NLP", "Git"]
+},
+{
+"id": 6,
+"title": "DevOps & Cloud Intern",
+"company": "SkillBridge Partner",
+"required_skills": ["Docker", "Linux", "Git", "CI/CD"]
+},
+{
+"id": 7,
+"title": "QA & Test Automation Intern",
+"company": "SkillBridge Partner",
+"required_skills": ["Python", "pytest", "Git", "REST APIs"]
+},
+{
+"id": 8,
+"title": "Mobile Developer Intern",
+"company": "SkillBridge Partner",
+"required_skills": ["JavaScript", "React", "REST APIs", "Git"]
+}
+]
