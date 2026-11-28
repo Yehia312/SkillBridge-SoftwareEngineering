@@ -56,3 +56,4 @@ htmlcov/
 # Docker local volumes / logs
 *.log
 pgdata/
+backend/skillbridge.db
